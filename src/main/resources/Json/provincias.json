@@ -1,0 +1,212 @@
+{
+    "dic20": [
+        {
+            "Cod": "02",
+            "Nombre": "Albacete"
+        },
+        {
+            "Cod": "03",
+            "Nombre": "Alicante/alacant"
+        },
+        {
+            "Cod": "04",
+            "Nombre": "Almería"
+        },
+        {
+            "Cod": "01",
+            "Nombre": "Araba/Álava"
+        },
+        {
+            "Cod": "16",
+            "Nombre": "Cuenca"
+        },
+        {
+            "Cod": "20",
+            "Nombre": "Gipuzkoa"
+        },
+        {
+            "Cod": "17",
+            "Nombre": "Girona"
+        },
+        {
+            "Cod": "18",
+            "Nombre": "Granada"
+        },
+        {
+            "Cod": "36",
+            "Nombre": "Pontevedra"
+        },
+        {
+            "Cod": "26",
+            "Nombre": "La Rioja"
+        },
+        {
+            "Cod": "37",
+            "Nombre": "Salamanca"
+        },
+        {
+            "Cod": "38",
+            "Nombre": "Santa Cruz de Tenerife"
+        },
+        {
+            "Cod": "33",
+            "Nombre": "Astrurias"
+        },
+        {
+            "Cod": "05",
+            "Nombre": "Ávila"
+        },
+        {
+            "Cod": "06",
+            "Nombre": "Badajoz"
+        },
+        {
+            "Cod": "07",
+            "Nombre": "Illes Balears"
+        },
+        {
+            "Cod": "08",
+            "Nombre": "Barcelona"
+        },
+        {
+            "Cod": "19",
+            "Nombre": "Guadalajara"
+        },
+        {
+            "Cod": "21",
+            "Nombre": "Huelva"
+        },
+        {
+            "Cod": "22",
+            "Nombre": "Huesca"
+        },
+        {
+            "Cod": "23",
+            "Nombre": "Jaén"
+        },
+        {
+            "Cod": "24",
+            "Nombre": "León"
+        },
+        {
+            "Cod": "40",
+            "Nombre": "Segovia"
+        },
+        {
+            "Cod": "41",
+            "Nombre": "Sevilla"
+        },
+        {
+            "Cod": "42",
+            "Nombre": "Soria"
+        },
+        {
+            "Cod": "43",
+            "Nombre": "Tarragona"
+        },
+        {
+            "Cod": "44",
+            "Nombre": "Teruel"
+        },
+        {
+            "Cod": "48",
+            "Nombre": "Bizkaia"
+        },
+        {
+            "Cod": "09",
+            "Nombre": "Burgos"
+        },
+        {
+            "Cod": "10",
+            "Nombre": "Cáceres"
+        },
+        {
+            "Cod": "11",
+            "Nombre": "Cádiz"
+        },
+        {
+            "Cod": "39",
+            "Nombre": "Cantabria"
+        },
+        {
+            "Cod": "25",
+            "Nombre": "Lleida"
+        },
+        {
+            "Cod": "27",
+            "Nombre": "Lugo"
+        },
+        {
+            "Cod": "28",
+            "Nombre": "Madrid"
+        },
+        {
+            "Cod": "29",
+            "Nombre": "Málaga"
+        },
+        {
+            "Cod": "30",
+            "Nombre": "Murcia"
+        },
+        {
+            "Cod": "45",
+            "Nombre": "Toledo"
+        },
+        {
+            "Cod": "46",
+            "Nombre": "Valencia"
+        },
+        {
+            "Cod": "47",
+            "Nombre": "Valladolid"
+        },
+        {
+            "Cod": "49",
+            "Nombre": "Zamora"
+        },
+        {
+            "Cod": "50",
+            "Nombre": "Zaragoza"
+        },
+        {
+            "Cod": "12",
+            "Nombre": "Castellón"
+        },
+        {
+            "Cod": "13",
+            "Nombre": "Ciudad Real"
+        },
+        {
+            "Cod": "14",
+            "Nombre": "Córdoba"
+        },
+        {
+            "Cod": "15",
+            "Nombre": "A Coruña"
+        },
+        {
+            "Cod": "31",
+            "Nombre": "Navarra"
+        },
+        {
+            "Cod": "32",
+            "Nombre": "Ourense"
+        },
+        {
+            "Cod": "34",
+            "Nombre": "Palencia"
+        },
+        {
+            "Cod": "35",
+            "Nombre": "Las Palmas"
+        },
+        {
+            "Cod": "51",
+            "Nombre": "Ceuta"
+        },
+        {
+            "Cod": "52",
+            "Nombre": "Melilla"
+        }
+    ]
+}
