@@ -23,7 +23,7 @@ import org.springframework.http.ResponseEntity;
 
 public class WeatherTodayDaoImpl implements WeatherTodayDao {
 
-    private String apikey = "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmZXJuYW5kb3RyYWJham9waEBob3RtYWlsLmNvbSIsImp0aSI6IjcwY2RlMzlmLTcyMzctNDM0OC05YWMyLTZjNjYxZGM4N2M1YiIsImlzcyI6IkFFTUVUIiwiaWF0IjoxNTkwMzQ4OTI1LCJ1c2VySWQiOiI3MGNkZTM5Zi03MjM3LTQzNDgtOWFjMi02YzY2MWRjODdjNWIiLCJyb2xlIjoiIn0.cIleEWvDZKZH2UUQjOwKFGzQIK9B0aBbs5FIETInjkk";
+    private String apikey = "";
 
     public List<Temperatura> weatherRequest(String http, String id){
         LocalDate localDate = LocalDate.now();    
